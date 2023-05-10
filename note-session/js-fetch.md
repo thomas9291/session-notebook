@@ -3,8 +3,8 @@
 ## Learning Objectives
 
 - [ ] Understanding the fetch API
-  - [ ] with async/await
   - [ ] JSON
+  - [ ] with async/await
   - [ ] HTTP Response Codes
   - [ ] REST API
   - [ ] Error Handling
